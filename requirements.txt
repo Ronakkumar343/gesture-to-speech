@@ -1,0 +1,4 @@
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+# Optional: pyttsx3 for offline text-to-speech output (works silently without audio driver)
+pyttsx3>=2.90
